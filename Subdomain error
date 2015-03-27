@@ -1,0 +1,16 @@
+im using digitalocean
+Server OS:
+ CentOS
+Apache Version:
+2.2.15
+PHP Version:
+5.5.22
+MySQL Version:
+5.1.73
+ZPanel Version:
+10.1.1
+
+my subdomains are not working demo.vemginc.com ex: that is pointing to a sub folder /demos
+
+but nothing is happining
+i think its a nameserver problem?
